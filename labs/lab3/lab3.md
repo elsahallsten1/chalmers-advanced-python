@@ -1,4 +1,4 @@
-# Lab3: A web application for tram network
+# Lab3: A web application for tram network 
 
 Advanced Python Course, Chalmers DAT515, 2022
 
